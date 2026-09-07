@@ -3,3 +3,5 @@
 这是我的第一个 GitHub 硬件工程项目。
 
 Author: 604461439-design
+
+Version: V1.1
